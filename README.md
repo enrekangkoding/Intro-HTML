@@ -1,7 +1,3 @@
-Tentu! Berikut ini artikel pengenalan tentang HTML (HyperText Markup Language).
-
----
-
 # Pengenalan HTML: Dasar-Dasar Membuat Halaman Web
 
 HTML, singkatan dari HyperText Markup Language, adalah bahasa pemrograman yang digunakan untuk membuat halaman web. Ini adalah bahasa dasar yang digunakan untuk mengatur dan memformat konten di web. Artikel ini akan memberikan pengenalan singkat tentang HTML dan bagaimana Anda dapat memulai dengan membuat halaman web sederhana.
